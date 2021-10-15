@@ -23,4 +23,6 @@
   - In order to enable the frontend to communicate with the web-app, I found the external IP of the web-app's LoadBalancer and adjusted the frontend's App.js file to communicate with this external IP address.
   - I rebuild the frontend container, adjusted the frontend's deployment.yaml file, and applied the new deployment to the cluster.
   - I used the external IP of the frontend LoadBalancer to access and test it from my browser. 
+
+3. The png images I submitted above show that my application is running successfully on the Google Kubernetes Engine
   
