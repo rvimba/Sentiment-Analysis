@@ -1,6 +1,6 @@
 # Sentiment-Analysis
 
-Docker Hub images
+1. Docker Hub images
 
   Frontend - https://hub.docker.com/repository/docker/rvimba/sentiment-analysis-frontend
   
@@ -8,7 +8,9 @@ Docker Hub images
   
   Logic - https://hub.docker.com/repository/docker/rvimba/sentiment-analysis-logic
   
-  
+
+2. Steps to get the application to work on GKE
+3. 
 In my local environment
 - First I cloned the application code to my local machine. 
 - Locally, I created the .jar file for the Java web application and built all three containers: frontend, web-app, and logic. 
