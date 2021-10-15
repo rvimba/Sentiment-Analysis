@@ -1,12 +1,9 @@
 # Sentiment-Analysis
 
 1. Docker Hub images
-
-  Frontend - https://hub.docker.com/repository/docker/rvimba/sentiment-analysis-frontend
-  
-  WebApp - https://hub.docker.com/repository/docker/rvimba/sentiment-analysis-webapp
-  
-  Logic - https://hub.docker.com/repository/docker/rvimba/sentiment-analysis-logic
+- Frontend - https://hub.docker.com/repository/docker/rvimba/sentiment-analysis-frontend
+- WebApp - https://hub.docker.com/repository/docker/rvimba/sentiment-analysis-webapp
+- Logic - https://hub.docker.com/repository/docker/rvimba/sentiment-analysis-logic
   
 
 2. Steps to get the application to work on GKE
