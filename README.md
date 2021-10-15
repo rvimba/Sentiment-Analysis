@@ -25,4 +25,6 @@
   - I used the external IP of the frontend LoadBalancer to access and test it from my browser. 
 
 3. The png images I submitted above show that my application is running successfully on the Google Kubernetes Engine
+4. Video recording of code walkthrough and demo
+- https://cmu.zoom.us/rec/share/gwkBoWj5xKajJ4cS74unum2bViUuvg-v1ta8RKETBsxBUtcnyEQaek6Foaf2uHU2.eBOrzd_sMiUBdIFU?startTime=1634265867000
   
